@@ -1,4 +1,4 @@
-March 4th 2025
+03-04-2025
 V0.7.1
 / Corrected imported libraries
 &&&&&&
@@ -18,7 +18,7 @@ V0.7.0
 + Added $round[]
 + Added $isNaN[]
 &&&&&&
-February 27th 2025
+02-27-2025
 V0.6.0
 + Added $if[]
 + Added $elseif[]
@@ -28,14 +28,14 @@ V0.6.0
 + Added multi lines comments $c[]
 + Added $checkCondition[]
 &&&&&&
-February 22nd 2025
+02-22-2025
 V0.5.0
 / Upgraded the command module
 - Removed all the old content
 + Added included libraries
 + Added $import[]
 &&&&&&
-February 16th 2025
+02-16-2025
 V0.2.0
 + Added $stack[]
 + Added $get[]
@@ -44,11 +44,11 @@ V0.2.0
 - Removed $ping (now $process[ping])
 / Updated the core
 &&&&&&
-February 15th 2025
+02-15-2025
 V0.1.1
 / Corrections
 &&&&&&
-February 13th 2025
+02-13-2025
 V0.1.0
 + Added $ping
 + Added $log[]
